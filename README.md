@@ -1,9 +1,12 @@
-Nhóm 14
+Nhóm 33
 
 Thành Viên
-1. Nguyễn Thị Vân Anh
-2. Đỗ Minh Anh
-3. Trần Thị Thu Trang
+1. Trịnh Hữu Thắng
+2. Phạm Thị Thu Sương
+3. Phạm Hồng Quang
+4. Trần Xuân Tiến
+
+
 Để chạy test
 1. Tạo 1 folder
 2. mở cmd tại folder gõ lệnh npm init và npm install cypress
