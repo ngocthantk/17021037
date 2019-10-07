@@ -1,1 +1,1 @@
-<img src="/14/testcase.png"/>
+<img src="/db.png"/>
