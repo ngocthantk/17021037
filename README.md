@@ -1,4 +1,4 @@
-Nhóm 33
+<strong>Nhóm 33</strong>
 
 Thành Viên
 1. Trịnh Hữu Thắng
